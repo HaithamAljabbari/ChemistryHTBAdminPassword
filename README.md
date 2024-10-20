@@ -12,5 +12,5 @@ this is how you run:
 python3 main.py
 ```
 
-Twiiter: https://twitter.com/haithamcode
+Twiiter: https://twitter.com/haithamcode <br/>
 Reddit: https://reddit.com/haithamaljabbari
