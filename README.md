@@ -11,3 +11,6 @@ this is how you run:
 ```
 python3 main.py
 ```
+
+Twiiter: https://twitter.com/haithamcode
+Reddit: https://reddit.com/haithamaljabbari
