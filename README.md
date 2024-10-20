@@ -3,8 +3,7 @@
 This is a Python program designed for the temporary season HackTheBox machine Chemistry
 
 I am still working to find the flag so in the meanwhile I developed this program to find the Admin password as the User "admin" exists
-
-As when you try to register with the username "admin" it saids admin already exists
+Because when you try to register with the username "admin" it saids the user admin already exists
 
 this is how you run:
 
